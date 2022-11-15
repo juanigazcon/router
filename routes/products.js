@@ -3,7 +3,7 @@ const router = express.Router()
 
 /* {id:1,
 title: "Marquisse",
-price: 15
+price: 15,
 thumbnail:"image"} */
 
 let products = []
